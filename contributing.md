@@ -1,6 +1,6 @@
 # ASDK contribution guide
 
-Follow the [getting started](https://github.com/adminasdk/asdk/tree/main?tab=readme-ov-file#getting-started) guide to install relevant toolchain and to setup the build environment. Ensure you are able to build ASDK successfully without any error.
+Follow the [getting started](https://github.com/adminasdk/asdk/tree/platform/stm32f4?tab=readme-ov-file#getting-started) guide to install relevant toolchain and to setup the build environment. Ensure you are able to build ASDK successfully without any error.
 
 ## Issues
 

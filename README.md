@@ -7,6 +7,8 @@ This organization hosts and maintains the official ASDK open-source project. The
 * Documentations
 * Coding style guide
 
+To quickly get started refer the [getting started](https://github.com/adminasdk/asdk/tree/platform/stm32f4?tab=readme-ov-file#getting-started) section.
+
 ### Supported platforms
 
 - Inifineon
